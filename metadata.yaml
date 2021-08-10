@@ -1,0 +1,23 @@
+_repo: The-Elizabethan-Stage-Vol-1-of-4_66003
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chambers, E. K. (Edmund Kerchever)
+    alias: Chambers, Edmund Kerchever
+    birthdate: 1866
+    deathdate: 1954
+    gutenberg_agent_id: '33297'
+    url: http://www.gutenberg.org/2009/agents/33297
+description: ''
+gutenberg_issued: '2021-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Elizabethan Stage (Vol 1 of 4)
+url: http://www.gutenberg.org/ebooks/66003
